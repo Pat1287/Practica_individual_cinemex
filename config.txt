@@ -1,0 +1,4 @@
+user:jlz
+password:Sql1280
+host:localhost
+database:cine_db
